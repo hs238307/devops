@@ -5002,11 +5002,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hemantsingh02\\Downloads\\backend\\devops\\backend\\Car rental project\\Car.Data\\Car.Data.csproj",
+      "projectUniqueName": "C:\\Users\\hemantsingh02\\Downloads\\backend\\backend\\Car rental project\\Car.Data\\Car.Data.csproj",
       "projectName": "Car.Data",
-      "projectPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\devops\\backend\\Car rental project\\Car.Data\\Car.Data.csproj",
+      "projectPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\backend\\Car rental project\\Car.Data\\Car.Data.csproj",
       "packagesPath": "C:\\Users\\hemantsingh02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\devops\\backend\\Car rental project\\Car.Data\\obj\\",
+      "outputPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\backend\\Car rental project\\Car.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
