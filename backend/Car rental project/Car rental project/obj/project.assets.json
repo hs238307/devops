@@ -5021,11 +5021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hemantsingh02\\Downloads\\backend\\backend\\Car rental project\\Car rental project\\Car rental project.csproj",
+      "projectUniqueName": "C:\\Users\\hemantsingh02\\Downloads\\backend\\devops\\backend\\Car rental project\\Car rental project\\Car rental project.csproj",
       "projectName": "Car rental project",
-      "projectPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\backend\\Car rental project\\Car rental project\\Car rental project.csproj",
+      "projectPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\devops\\backend\\Car rental project\\Car rental project\\Car rental project.csproj",
       "packagesPath": "C:\\Users\\hemantsingh02\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\backend\\Car rental project\\Car rental project\\obj\\",
+      "outputPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\devops\\backend\\Car rental project\\Car rental project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5047,8 +5047,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\hemantsingh02\\Downloads\\backend\\backend\\Car rental project\\Car.Data\\Car.Data.csproj": {
-              "projectPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\backend\\Car rental project\\Car.Data\\Car.Data.csproj"
+            "C:\\Users\\hemantsingh02\\Downloads\\backend\\devops\\backend\\Car rental project\\Car.Data\\Car.Data.csproj": {
+              "projectPath": "C:\\Users\\hemantsingh02\\Downloads\\backend\\devops\\backend\\Car rental project\\Car.Data\\Car.Data.csproj"
             }
           }
         }
